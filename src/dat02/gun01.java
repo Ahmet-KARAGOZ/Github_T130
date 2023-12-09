@@ -5,5 +5,11 @@ public class gun01 {
 		int a = 128;
 		int b = 256;
 		System.out.println("İki sayı toplamı : "+(a+b));
+
+		/*
+		git add .
+		git commit -m "ikinci gun"
+		git push
+		 */
 	}
 }
