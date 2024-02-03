@@ -7,6 +7,7 @@ public class gun01 {
 		System.out.println("İki sayı toplamı : "+(a+b));
 
 		System.out.println("Buralar tarlaydı.");
+		System.out.println("MAC buralara bina yapacak.");
 
 		/*
 		git add .
