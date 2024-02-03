@@ -6,6 +6,8 @@ public class gun01 {
 		int b = 256;
 		System.out.println("İki sayı toplamı : "+(a+b));
 
+		System.out.println("Buralar tarlaydı.");
+
 		/*
 		git add .
 		git commit -m "ikinci gun"
